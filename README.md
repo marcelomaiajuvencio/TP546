@@ -10,3 +10,7 @@ Criar um github para os trabalhos e disponibilizar o link pela tarefa.
 Incluir no github o  documento pdf da tarefa e artigos pesquisados.
 
 # Trabalho 02
+
+Fazer uma pesquisa sobre índices mundiais de classificação de cidades inteligentes.  
+
+Como posso classificar o nível de inteligência de uma cidade inteligente?
