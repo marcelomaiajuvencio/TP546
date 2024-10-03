@@ -14,3 +14,7 @@ Incluir no github o  documento pdf da tarefa e artigos pesquisados.
 Fazer uma pesquisa sobre índices mundiais de classificação de cidades inteligentes.  
 
 Como posso classificar o nível de inteligência de uma cidade inteligente?
+
+# Trabalho 03 - entrega 10 OUT
+
+Fazer uma pesquisa sobre problemas de segurança em redes IoT. Escolher um tipo de problema de segurança. Mostrar como pode ser feito um ataque em específico e quais medidas podem ser utilizadas para sanar o problema.
