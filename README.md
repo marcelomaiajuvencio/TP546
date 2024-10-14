@@ -19,7 +19,7 @@ Como posso classificar o nível de inteligência de uma cidade inteligente?
 
 Fazer uma pesquisa sobre problemas de segurança em redes IoT. Escolher um tipo de problema de segurança. Mostrar como pode ser feito um ataque em específico e quais medidas podem ser utilizadas para sanar o problema.
 
-# Trabalho 04 - entrega 17 OUT
+# Trabalho 04 - entrega 20 OUT
 
 Fazer uma pesquisa sobre uma aplicação de sensores em redes veiculares (Lidar, radar, câmera), escolher um sensor apenas. Explicar a aplicação, modo de funcionamento e citar casos de uso (real ou pesquisa em artigo).
 
