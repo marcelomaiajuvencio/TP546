@@ -27,3 +27,29 @@ Mínimo 5 páginas.
 Pode ser feito em dupla
 
 Anexar no github relatório e artigos pesquisados.
+
+# Trabalho IoT - entrega 07 NOV
+
+Fazer uma implementação prática com esp32 ou simulação com biblioteca paho do python.
+
+Mostrar os dados através de um dashboard blynd ou através do mqtt x
+
+Pode ser em dupla ou trio.
+
+Colocar no github, um arquivo ppt da apresentação e um link do video de até 10 min explicando e demonstrando toda a solução
+
+Detalhes do Trabalho final IoT  
+Pense um produto do seu convívio ou interesse
+que possa ter uma solução IoT. Para este produto imaginado
+escreva um trabalho (arquivo power point) detalhando os seguintes
+pontos:
+-  Uma explicação resumida sobre o produto e ideias para
+implementação do produto IoT?
+-  Quais dispositivos e sensores podem ser utilizados na solução?
+-  Este produto já existe em uma solução IoT no mercado? Se
+sim, inclua detalhes sobre os produtos comerciais e melhoras
+que poderiam ser agregadas.
+-  Quais são os benefícios obtidos com o produto IoT?
+-  Este produto pode ser viável comercialmente?
+-  O produto IoT pode ser integrado com outras soluções para
+implementação de uma arquitetura de soluções IoT?
