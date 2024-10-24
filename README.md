@@ -32,7 +32,7 @@ Anexar no github relatório e artigos pesquisados.
 
 Fazer uma implementação prática com esp32 ou simulação com biblioteca paho do python.
 
-Mostrar os dados através de um dashboard blynd ou através do mqtt x
+Mostrar os dados através de um dashboard blynk ou através do mqtt x
 
 Pode ser em dupla ou trio.
 
