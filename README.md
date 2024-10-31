@@ -53,3 +53,14 @@ que poderiam ser agregadas.
 -  Este produto pode ser viável comercialmente?
 -  O produto IoT pode ser integrado com outras soluções para
 implementação de uma arquitetura de soluções IoT?
+
+# Trabalho final de redes veiculares - entrega 05 DEZ
+Estudo de Caso: Fazer um estudo sobre um aspecto da tecnologia/uma aplicação específica na área de redes veiculares.  
+- Artigo em modelo IEEE  de conferência, 8-10 páginas coluna dupla.
+- O template está disponível em
+https://www.ieee.org/conferences/publishing/templates.html
+-    Apresentação em power point  
+-    Apresentação em sala de aula em torno de 20 minutos  
+-    Apresentação 05/12
+
+Pode ser feito em duplas ou trios
