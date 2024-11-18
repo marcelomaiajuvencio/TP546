@@ -28,7 +28,7 @@ Pode ser feito em dupla
 
 Anexar no github relatório e artigos pesquisados.
 
-# Trabalho IoT - entrega 07 NOV
+# Trabalho IoT - entrega 14 NOV
 
 Fazer uma implementação prática com esp32 ou simulação com biblioteca paho do python.
 
